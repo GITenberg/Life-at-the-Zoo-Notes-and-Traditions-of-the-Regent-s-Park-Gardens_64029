@@ -1,0 +1,31 @@
+_repo: Life-at-the-Zoo-Notes-and-Traditions-of-the-Regent-s-Park-Gardens_64029
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bolton, Gambier
+    gutenberg_agent_id: '52722'
+    url: http://www.gutenberg.org/2009/agents/52722
+creator:
+  author:
+    agent_name: Cornish, C. J. (Charles John)
+    alias: Cornish, Charles John
+    birthdate: 1858
+    deathdate: 1906
+    gutenberg_agent_id: '2848'
+    url: http://www.gutenberg.org/2009/agents/2848
+    wikipedia: https://en.wikipedia.org/wiki/Charles_John_Cornish
+description: ''
+gutenberg_issued: '2020-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64029'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Life at the Zoo
+
+  Notes and Traditions of the Regent''s Park Gardens'
+url: http://www.gutenberg.org/ebooks/64029
